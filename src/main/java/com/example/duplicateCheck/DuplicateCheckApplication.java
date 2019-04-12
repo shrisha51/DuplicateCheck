@@ -1,4 +1,4 @@
-package com.example.products;
+package com.example.duplicateCheck;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
